@@ -1,3 +1,5 @@
 Hello world !
 Wowwww
 Red So cute
+Hello line 1.
+Hello line 2.
